@@ -7,11 +7,11 @@ This is a project page of **BrightView**, a collaborative work of the following 
 * [Alexander Plopski](http://imd.naist.jp/people/alexanderplopski/) (Nara Institute of Science and Technology)
 * [Christian Sandor](http://imd.naist.jp/people/christiansandor/) (Nara Institute of Science and Technology)
 
-For Japanese people, we hope you to refer to [日本語 (NA)](./).
+For Japanese people, we hope you to refer to [日本語 (NA)](./README_JP.md).
 
 ## Abstract
 
-Optical See-Through Head-Mounted Displays (OST-HMDs) lose the visibility of virtual contents under bright environment illumination due to their see-through nature. We demonstrate how a liquid crystal (LC) filter attached to an OST-HMD can be used to dynamically increase the perceived brightness of virtual content without impacting the perceived brightness of the real scene. We present a prototype OST-HMD that continuously adjusts the opacity of the LC filter to attenuate the environment light without users becoming aware of the change. Consequently, virtual content appears to be brighter. The proposed approach is evaluated in psychophysical experiments in three scenes, with 16, 31, and 31 participants, respectively. The participants were asked to compare the magnitude of brightness changes of both real and virtual objects, before and after dimming the LC filter over a period of 5, 10, and 20 seconds. The results showed that the participants felt increases in the brightness of virtual objects while they were less conscious of reductions of the real scene luminance. These results provide evidence for the effectiveness of our display design. Our design can be applied to a wide range of OST-HMDs to improve the brightness and hence realism of virtual content in augmented reality applications.
+Optical See-Through Head-Mounted Displays (OST-HMDs) lose the visibility of virtual contents under bright environment illumination due to their see-through nature. We demonstrate how liquid crystal (LC) filters attached to an OST-HMD work for increasing the perceived brightness of virtual contents without impacting the brightness of the real scene. In our psychophysical experiments in three scenes, participants were asked to compare the magnitude of brightness changes of both real and virtual objects, before and after dimming the LC filter. The results show that the participants felt increases in the brightness of virtual objects while they were less conscious of reductions of the real scene luminance.
 
 ![teaser](./figs/teaser.jpg)
 
@@ -56,4 +56,4 @@ Shohei Mori, Sei Ikeda, Christian Sandor, and Alexander Plopski: BrightView: Inc
 
 ## Fund
 
-* JSPS KAKENHI Grand Number 17K12729: [https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-17K12729/](https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-17K12729/)
+* JSPS KAKENHI, Grant-in-Aid for Young Scientists (B), Grand Number 17K12729: [https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-17K12729/](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-17K12729/)
