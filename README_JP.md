@@ -54,4 +54,7 @@ Shohei Mori, Sei Ikeda, Christian Sandor, and Alexander Plopski: BrightView: Inc
 
 ## 競争的研究資金
 
+* 日本学術振興会 科研費 基盤研究(B) 15H02737: [https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-15H02737/](https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-15H02737/)
 * 日本学術振興会 科研費 若手研究(B) 17K12729: [https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-17K12729/](https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-17K12729/)
+* 日本学術振興会 科研費 若手研究(B) 17K12726: [https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-17K12726/](https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-17K12726/)
+
