@@ -7,7 +7,7 @@ This is a project page of **BrightView**, a collaborative work of the following 
 * [Alexander Plopski](http://imd.naist.jp/people/alexanderplopski/) (Nara Institute of Science and Technology)
 * [Christian Sandor](http://imd.naist.jp/people/christiansandor/) (Nara Institute of Science and Technology)
 
-For Japanese people, we hope you to refer to [日本語 (NA)](./README_JP.md).
+For Japanese people, we hope you to refer to [日本語](./README_JP.md).
 
 ## Abstract
 
