@@ -55,6 +55,6 @@ Shohei Mori, Sei Ikeda, Christian Sandor, and Alexander Plopski: BrightView: Inc
 ```
 
 ## Fund
-* JSPS KAKENHI, Grant-in-Aid for Scientific Research (B) 15H02737: [https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-15H02737/](https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-15H02737/)
+* JSPS KAKENHI, Grant-in-Aid for Scientific Research (B), Grand Number 15H02737: [https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-15H02737/](https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-15H02737/)
 * JSPS KAKENHI, Grant-in-Aid for Young Scientists (B), Grand Number 17K12729: [https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-17K12729/](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-17K12729/)
-* JSPS KAKENHI, Grant-in-Aid for Young Scientists (B) 17K12726: [https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-17K12726/](https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-17K12726/)
+* JSPS KAKENHI, Grant-in-Aid for Young Scientists (B), Grand Number 17K12726: [https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-17K12726/](https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-17K12726/)
