@@ -20,14 +20,14 @@ Optical See-Through Head-Mounted Displays (OST-HMDs) lose the visibility of virt
 ## Publications
 ### IEEE VR 2018
 
-Shohei Mori, Sei Ikeda, Alex Plopski, and Christian Sandor: BrightView: Increasing Perceived  Brightness of Optical See-Through Head-Mounted Displays Through Unnoticeable Incident Light Reduction, Proc. IEEE Virtual Reality (2018.3) **to appear**
+Shohei Mori, Sei Ikeda, Alexander Plopski, and Christian Sandor: BrightView: Increasing Perceived  Brightness of Optical See-Through Head-Mounted Displays Through Unnoticeable Incident Light Reduction, Proc. IEEE Virtual Reality (2018.3) **to appear**
 
 * Paper: [IEEE Xplore (NA)](./), [Author PDF](./papers/vr2018/brightview-vr2018.pdf)
 * Slides: [PowerPoint (NA)](./), [SlideShare (NA)](./) [PDF (NA)](./)
 * BibTex
 ```tex
 @proceedings{BrightViewIEEEVR2018,
-	author = {Shohei Mori and Sei Ikeda and Alexander Plopski and Christian Sandor},
+	author = {Mori, Shohei and Ikeda, Sei and Plopski, Alexander and Sandor, Christian},
 	title = {BrightView: Increasing Perceived Brightness of Optical See-Through Head-Mounted Displays Through Unnoticeable Incident Light Reduction},
 	booktitle = {IEEE Virtual Reality},
 	year = {2018},
@@ -45,7 +45,7 @@ Shohei Mori, Sei Ikeda, Christian Sandor, and Alexander Plopski: BrightView: Inc
 * BibTex
 ```tex
 @proceedings{BrightViewISMAR2017,
-	author = {Shohei Mori and Sei Ikeda and Christian Sandor and Alexander Plopski},
+	author = {Mori, Shohei and Ikeda, Sei and Sandor, Christian and Plopski, Alexander},
 	title = {BrightView: Increasing Perceived Brightness in Optical See-through Head-mounted Displays},
 	booktitle = {IEEE Int. Symp. on Mixed and Augmented Reality (ISMAR)-Adjunct},
 	year = {2017},

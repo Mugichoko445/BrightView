@@ -9,7 +9,7 @@
 
 ## 概要
 
-光学的シースルーヘッドマウンテッドディスプレイ (OST-HMD) は，光学機器を用いた透過型という性質のため，明るい環境照明の下では，表示される仮想コンテンツの可視性が損なわれてしまう．本研究では，体験者にとっての実際のシーンの明るさに影響を与えず，仮想コンテンツの知覚される明るさを高める．そのために，OST-HMDに取り付けられた液晶フィルタによる調光を行い，これが先の課題にどのような寄与するのかを示す．3つのシーンでの心理物理的実験では，被験者に，液晶フィルタによる調光の前後で，現実と仮想の両方の明るさの変化の大きさを比較するよう求めた．結果，参加者は，現実シーンの明るさの低下をあまり意識していないが，仮想物体の明るさの増加を感じたことが明らかになった．
+光学式透過型ヘッドマウンテッドディスプレイ (OST-HMD) は，光学機器を用いた透過型という性質のため，明るい環境照明の下では，表示される仮想コンテンツの可視性が損なわれてしまう．本研究では，体験者にとっての実際のシーンの明るさに影響を与えず，仮想コンテンツの知覚される明るさを高める．そのために，OST-HMDに取り付けられた液晶フィルタによる調光を行い，これが先の課題にどのような寄与するのかを示す．3つのシーンでの心理物理的実験では，被験者に，液晶フィルタによる調光の前後で，現実と仮想の両方の明るさの変化の大きさを比較するよう求めた．結果，参加者は，現実シーンの明るさの低下をあまり意識していないが，仮想物体の明るさの増加を感じたことが明らかになった．
 
 ![teaser](./figs/teaser.jpg)
 
@@ -25,7 +25,7 @@ Shohei Mori, Sei Ikeda, Alex Plopski, and Christian Sandor: BrightView: Increasi
 * BibTex
 ```tex
 @proceedings{BrightViewIEEEVR2018,
-	author = {Shohei Mori and Sei Ikeda and Alexander Plopski and Christian Sandor},
+	author = {Mori, Shohei and Ikeda, Sei and Plopski, Alexander and Sandor, Christian},
 	title = {BrightView: Increasing Perceived Brightness of Optical See-Through Head-Mounted Displays Through Unnoticeable Incident Light Reduction},
 	booktitle = {IEEE Virtual Reality},
 	year = {2018},
@@ -43,7 +43,7 @@ Shohei Mori, Sei Ikeda, Christian Sandor, and Alexander Plopski: BrightView: Inc
 * BibTex
 ```tex
 @proceedings{BrightViewISMAR2017,
-	author = {Shohei Mori and Sei Ikeda and Christian Sandor and Alexander Plopski},
+	author = {Mori, Shohei and Ikeda, Sei and Sandor, Christian and Plopski, Alexander},
 	title = {BrightView: Increasing Perceived Brightness in Optical See-through Head-mounted Displays},
 	booktitle = {IEEE Int. Symp. on Mixed and Augmented Reality (ISMAR)-Adjunct},
 	year = {2017},
