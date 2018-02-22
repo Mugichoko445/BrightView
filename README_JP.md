@@ -2,7 +2,7 @@
 
 こちらは，下記の研究者による**BrightView**のプロジェクトページです．
 
-* [森 尚平](https://sites.google.com/view/smori/)（慶應義塾大学）
+* [森 尚平](https://mugichoko445.bitbucket.io/)（慶應義塾大学）
 * [池田 聖](https://sites.google.com/view/ikeda-sei/home)（立命館大学）
 * [Alexander Plopski](http://imd.naist.jp/people/alexanderplopski/)（奈良先端科学技術大学院大学）
 * [Christian Sandor](http://imd.naist.jp/people/christiansandor/)（奈良先端科学技術大学院大学）

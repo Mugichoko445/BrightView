@@ -2,7 +2,7 @@
 
 This is a project page of **BrightView**, a collaborative work of the following people.
 
-* [Shohei Mori](https://sites.google.com/view/smori/) (Keio University)
+* [Shohei Mori](https://mugichoko445.bitbucket.io/) (Keio University)
 * [Sei Ikeda](https://sites.google.com/view/ikeda-sei/home) (Ritsumeikan University)
 * [Alexander Plopski](http://imd.naist.jp/people/alexanderplopski/) (Nara Institute of Science and Technology)
 * [Christian Sandor](http://imd.naist.jp/people/christiansandor/) (Nara Institute of Science and Technology)
