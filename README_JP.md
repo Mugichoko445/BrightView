@@ -18,10 +18,10 @@
 ## 研究業績
 ### IEEE VR 2018
 
-Shohei Mori, Sei Ikeda, Alex Plopski, and Christian Sandor: BrightView: Increasing Perceived  Brightness of Optical See-Through Head-Mounted Displays Through Unnoticeable Incident Light Reduction, Proc. IEEE Virtual Reality (2018.3) **to appear**
+Shohei Mori, Sei Ikeda, Alex Plopski, and Christian Sandor: BrightView: Increasing Perceived  Brightness of Optical See-Through Head-Mounted Displays Through Unnoticeable Incident Light Reduction, Proc. IEEE Virtual Reality (2018.3)
 
-* Paper: [IEEE Xplore (NA)](./), [Author PDF](./papers/vr2018/brightview-vr2018.pdf)
-* Slides: [PowerPoint (NA)](./), [SlideShare (NA)](./) [PDF (NA)](./)
+* Paper: [IEEE Xplore](https://ieeexplore.ieee.org/document/8446441/), [Author PDF](./papers/vr2018/brightview-vr2018.pdf)
+* Slides: [SlideShare](https://www.slideshare.net/ShoheiMori/brightview-at-ieee-vr-2018)
 * BibTex
 ```tex
 @proceedings{BrightViewIEEEVR2018,
@@ -29,8 +29,8 @@ Shohei Mori, Sei Ikeda, Alex Plopski, and Christian Sandor: BrightView: Increasi
 	title = {BrightView: Increasing Perceived Brightness of Optical See-Through Head-Mounted Displays Through Unnoticeable Incident Light Reduction},
 	booktitle = {IEEE Virtual Reality},
 	year = {2018},
-	pages = {},
-	url = {}
+	pages = {251--258},
+	url = {https://ieeexplore.ieee.org/document/8446441/}
 }
 ```
 
